@@ -1,0 +1,49 @@
+{
+  "term": "January IAP",
+  "year": "2024",
+  "level": [
+    "Non-Credit"
+  ],
+  "topics": [
+    [
+      "Engineering"
+    ],
+    [
+      "Engineering",
+      "Aerospace Engineering"
+    ],
+    [
+      "Engineering",
+      "Mechanical Engineering"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "26f3447b-7de5-4794-85e0-a432adab1252"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "c00ce889-0aed-48f8-93d0-6478625d8c81",
+    "website": "how-to-cad-almost-anything"
+  },
+  "course_title": "How to CAD Almost Anything",
+  "hide_download": true,
+  "course_description": "Have you ever wondered how objects from our daily lives are designed? How can we generate a computer 3D model of a mug, a bottle of Diet Coke, or a Saturn V rocket? What about designing the blades of a jet engine? A test dummy? How about making an animation of a LEGO house building itself? Or making a realistic render of a bowl of fruit? In this workshop, you will learn skills to design all these and much more!\n\nSplit into nine sessions, this workshop introduces CAD (Computer Aided Design) using the parametric modeling software SolidWorks, through various fun examples focused on reverse engineering. In contrast to traditional mechanical design courses, this workshop emphasizes the design process itself, understanding how we can plan and best leverage our available tools to arrive at our desired result. Thus, the sessions are less about following the instructions on an engineering drawing, and more about independent thinking and strategizing, reverse engineering an object into a 3D model.\n\nCome and learn how to CAD almost anything!\n\nThis supplemental resource offers links to the class's [website and workshop materials](https://github.com/andyeske/How-to-CAD-Almost-Anything) as well as a companion playlist of [session recordings](https://www.youtube.com/playlist?list=PLxiALKuvAoddtyBnQUduHkDVHUAijcOkD) on YouTube.",
+  "department_numbers": [
+    "16"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.16-002",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "how-to-cad-almost-anything"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Lecture Videos"
+  ],
+  "site_uid": "8a865822-1f20-4b2f-bc85-3c5ab7e24a6f",
+  "site_short_id": "res.16-002-iap-2024"
+}
