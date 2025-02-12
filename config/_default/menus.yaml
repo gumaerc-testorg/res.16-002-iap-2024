@@ -23,10 +23,18 @@ leftnav:
   name: Onshape Session Recordings
   pageRef: /external-resources/onshapen-session-recordings
   weight: 60
+- identifier: 758fc0d1-c41c-4289-9985-c6b83e34d067
+  name: How to CAD Almost Anything with Siemens NX
+  pageRef: /external-resources/how-to-cad-almost-anything-with-siemens-nx
+  weight: 70
+- identifier: 9d0754c5-7bd5-43f8-a211-5d359ef51c92
+  name: Siemens NX Session Recordings
+  pageRef: /external-resources/siemens-nx-session-recordings
+  weight: 80
 - identifier: de756574-41ec-47df-a48a-472ad3a90caa
   name: Instructor Insights
   pageRef: /pages/instructor-insights
-  weight: 70
+  weight: 90
 - identifier: ecd0b98a-22a2-4d82-9b6b-4e9e5cd54a1e
   name: Students' Reasons for Enrolling in the Workshop
   pageRef: /pages/students-reasons-for-enrolling-in-the-workshop
