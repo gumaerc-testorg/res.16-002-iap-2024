@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/how-to-cad-almost-anything/mit_res_16_002_s24.jpg
+file: /ol-ocw-studio-app/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/mit_res_16_002_s24.jpg
 file_size: 423215
 file_type: image/jpeg
 image_metadata:
